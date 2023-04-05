@@ -1,0 +1,8 @@
+node_modules
+npm-debug.log
+git
+.gitignore
+log
+logs
+.log
+docker build -t internal:v1.0
